@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "SHELF_SEA",
+ "name": "Shelf sea",
+ "group": "Ocean",
+ "size": "vast",
+ "kind": "water",
+ "notes": "Open continental-shelf water: no land plants; the shoreline where the shelf sea meets the coast carries eelgrass, saltmarsh cordgrass and strandline weed, and the seabed carries seagrass and brown algae in the photic zone. Drawn on North Sea/Baltic, NW Atlantic (Georges Bank), and Australian shelf; underwater species flagged.",
+ "climate": {
+  "temp_c": [
+   -2,
+   32
+  ],
+  "moisture": [
+   0,
+   1
+  ]
+ },
+ "plant_families": []
+}

@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "ROCKY_SHORE",
+ "name": "Rocky shore",
+ "group": "Coastal",
+ "size": "small",
+ "kind": "land",
+ "notes": "Sea cliffs and rocky coasts: spray-zone lichens and salt-tolerant cushion/rosette herbs in crevices, wind-shaped scrub above, and brown seaweeds (rockweed, kelp) in the intertidal. Drawn on North Atlantic (Britain, Norway, New England), Pacific NW and Mediterranean cliffs; seaweeds flagged underwater.",
+ "climate": {
+  "temp_c": [
+   -5,
+   33
+  ],
+  "moisture": [
+   0,
+   1
+  ]
+ },
+ "plant_families": []
+}

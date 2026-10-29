@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "TROPICAL_DRY_FOREST",
+ "name": "Tropical dry forest",
+ "group": "Tropical",
+ "size": "mid",
+ "kind": "land",
+ "notes": "Deciduous tropical forest with a long dry season: most trees drop leaves for 4-7 months, thorny/bottle-trunked species, open understory of shrubs and grasses. Drawn on Mesoamerican Pacific dry forest, Bolivian Chiquitano, Indian/Burmese dry deciduous forest, Miombo margins and Madagascar western dry forest.",
+ "climate": {
+  "temp_c": [
+   18,
+   33
+  ],
+  "moisture": [
+   0.43,
+   0.58
+  ]
+ },
+ "plant_families": []
+}

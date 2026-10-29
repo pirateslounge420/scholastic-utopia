@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "SAVANNA",
+ "name": "Savanna",
+ "group": "Tropical",
+ "size": "vast",
+ "kind": "land",
+ "notes": "Tropical grassland with scattered fire-adapted trees: continuous C4 grass layer under flat-crowned acacias, baobabs and palms. Drawn on the East African Serengeti/miombo, Brazilian Cerrado, Australian tropical savanna and Indian savanna-woodland.",
+ "climate": {
+  "temp_c": [
+   18,
+   33
+  ],
+  "moisture": [
+   0.26,
+   0.47
+  ]
+ },
+ "plant_families": []
+}

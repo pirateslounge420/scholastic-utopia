@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "LAGOON",
+ "name": "Lagoon",
+ "group": "Coastal",
+ "size": "small",
+ "kind": "water",
+ "notes": "Sheltered coastal lagoons: mangroves and sea purslane on tropical lagoon shores, samphire/saltwort and reeds on temperate barrier lagoons (Venice, Baltic haffs), and dense seagrass meadows in the shallow water. Drawn on Caribbean and Indo-Pacific atoll lagoons, Mediterranean and Baltic lagoons; underwater species flagged.",
+ "climate": {
+  "temp_c": [
+   5,
+   33
+  ],
+  "moisture": [
+   0,
+   1
+  ]
+ },
+ "plant_families": []
+}

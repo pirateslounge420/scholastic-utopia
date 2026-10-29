@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "COLD_DESERT",
+ "name": "Cold desert",
+ "group": "Desert",
+ "size": "mid",
+ "kind": "land",
+ "notes": "Sparse grey chenopod shrubs (saltbush, saxaul, winterfat) and scattered bunchgrasses with cold winters; Gobi and Central Asian deserts, Great Basin/Colorado Plateau lowlands, Patagonian monte.",
+ "climate": {
+  "temp_c": [
+   -2,
+   18
+  ],
+  "moisture": [
+   0.02,
+   0.22
+  ]
+ },
+ "plant_families": []
+}

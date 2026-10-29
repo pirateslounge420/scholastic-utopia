@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "CORAL_REEF",
+ "name": "Coral reef",
+ "group": "Ocean",
+ "size": "small",
+ "kind": "water",
+ "notes": "Tropical reef and reef flat: no true land plants except on the adjoining cay/strand (coconut, naupaka, morning glory); the reef itself is built of coral, encrusting coralline algae, Halimeda and turf/sea-grape algae, with seagrass on the back-reef lagoon floor. Drawn on the Great Barrier Reef, Caribbean and Red Sea; underwater species flagged.",
+ "climate": {
+  "temp_c": [
+   23,
+   32
+  ],
+  "moisture": [
+   0,
+   1
+  ]
+ },
+ "plant_families": []
+}

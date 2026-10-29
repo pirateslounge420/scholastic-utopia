@@ -1,0 +1,24 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "CLOUD_FOREST",
+ "name": "Montane / cloud forest",
+ "group": "Forest",
+ "size": "small",
+ "kind": "land",
+ "notes": "Persistently fog-soaked montane forest of low, gnarled, moss-laden trees with bamboo thickets, tree ferns and a heavy epiphyte load of bromeliads, orchids and liverworts; drawn on the Andes, Central America and the Afromontane belt.",
+ "climate": {
+  "temp_c": [
+   6,
+   21
+  ],
+  "moisture": [
+   0.55,
+   1
+  ],
+  "altitude_m": [
+   800,
+   3700
+  ]
+ },
+ "plant_families": []
+}

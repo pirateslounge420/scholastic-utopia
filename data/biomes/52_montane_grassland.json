@@ -1,0 +1,24 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "MONTANE_GRASSLAND",
+ "name": "Montane grassland and shrubland (central Mexico)",
+ "group": "High-altitude",
+ "size": "small",
+ "kind": "land",
+ "notes": "The montane grassland and shrubland of central Mexico (Mike, 12 Oct, §FN.8 call 1: 'the mid Mexico biome is the Aztec'; 'Aztec is not cloud forest. it should be montane grasslands/shrublands'): the uplands round the Valley of Mexico, about 2,200-3,000 m on the valley's floor and rims, rising on the volcanoes' flanks as the zacatonal bunchgrass to about 4,000 m. Mild days, cool nights with frost in the dry winter, rain in a summer wet season (May to October). Below: matorral of nopal, maguey, palo dulce, gatuno, chapulixtle and palo loco on lava and thin soil, with tepozan in the barrancas. Above: tall bunchgrass (zacaton, Festuca tolucensis, Muhlenbergia, Calamagrostis) under scattered Hartweg's pine and alligator juniper. The Aztec temple's world in Torchfire 1 (worlds.json worlds.aztec_highland). WWF: the Trans-Mexican Volcanic Belt's zacatonal and the Central Mexican matorral (Nearctic). A label slot like TEPUI: the open world classifies nothing as it.",
+ "climate": {
+  "temp_c": [
+   6,
+   17
+  ],
+  "moisture": [
+   0.3,
+   0.65
+  ],
+  "altitude_m": [
+   2200,
+   4000
+  ]
+ },
+ "plant_families": []
+}

@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "TUNDRA",
+ "name": "Tundra",
+ "group": "Polar/cold",
+ "size": "vast",
+ "kind": "land",
+ "notes": "Arctic lowland tundra: treeless, permafrost, dominated by mosses, lichens, sedges, dwarf willows and heath shrubs. Drawn on Alaska/Canada, Siberia and Scandinavian Arctic.",
+ "climate": {
+  "temp_c": [
+   -12,
+   -2
+  ],
+  "moisture": [
+   0.2,
+   1
+  ]
+ },
+ "plant_families": []
+}

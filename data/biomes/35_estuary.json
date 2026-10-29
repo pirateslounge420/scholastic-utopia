@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "ESTUARY",
+ "name": "Estuary / delta",
+ "group": "Coastal",
+ "size": "small",
+ "kind": "water",
+ "notes": "Brackish tidal river mouths and deltas: cordgrass and glasswort marsh fringing mudflats, reed and bulrush beds on the fresher side, mangrove in tropical deltas, and eelgrass in the channels. Drawn on Atlantic North America (Chesapeake), NW Europe (Wadden Sea, Thames), the Mekong/Ganges deltas and SE Australian estuaries; underwater species flagged.",
+ "climate": {
+  "temp_c": [
+   0,
+   33
+  ],
+  "moisture": [
+   0.3,
+   1
+  ]
+ },
+ "plant_families": []
+}

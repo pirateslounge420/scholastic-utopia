@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "TEMPERATE_DECIDUOUS",
+ "name": "Temperate deciduous / mixed forest",
+ "group": "Forest",
+ "size": "mid",
+ "kind": "land",
+ "notes": "Broadleaf deciduous forest dominated by oaks, beech, maples and ash with a hazel/spicebush shrub layer and a spring-ephemeral herb carpet; drawn on lowland Europe, the eastern USA and temperate East Asia (Japan/China).",
+ "climate": {
+  "temp_c": [
+   6,
+   19
+  ],
+  "moisture": [
+   0.5,
+   0.9
+  ]
+ },
+ "plant_families": []
+}

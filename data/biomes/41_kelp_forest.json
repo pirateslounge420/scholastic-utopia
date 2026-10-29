@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "KELP_FOREST",
+ "name": "Kelp forest",
+ "group": "Ocean",
+ "size": "small",
+ "kind": "water",
+ "notes": "Cool rocky coasts with kelp canopies offshore: shoreline carries salt-spray cushions, rockweed and coastal scrub; underwater giant kelp, bull kelp and Laminaria form the forest with understory red/brown algae. Drawn on California/Pacific NW, Tasmania/NZ, Chile and North Atlantic (Norway, Scotland); underwater species flagged.",
+ "climate": {
+  "temp_c": [
+   6,
+   18
+  ],
+  "moisture": [
+   0,
+   1
+  ]
+ },
+ "plant_families": []
+}

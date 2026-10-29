@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "SHORTGRASS_PRAIRIE",
+ "name": "Shortgrass prairie",
+ "group": "Grass & scrub",
+ "size": "mid",
+ "kind": "land",
+ "notes": "Sod-forming grasses under 0.5 m (blue grama, buffalograss) with scattered yucca, cactus and low sage on the dry western Great Plains (Colorado, Wyoming, Texas panhandle); treeless except along draws.",
+ "climate": {
+  "temp_c": [
+   4,
+   19
+  ],
+  "moisture": [
+   0.28,
+   0.45
+  ]
+ },
+ "plant_families": []
+}

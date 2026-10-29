@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "FRESHWATER_MARSH",
+ "name": "Freshwater marsh",
+ "group": "Wetlands",
+ "size": "small",
+ "kind": "land",
+ "notes": "Treeless emergent wetland on mineral soil with standing fresh water: tall stands of cattail, reed and bulrush grade into sedge tussocks, iris and sweet-grass at the margins with scattered willow/sweet-gale; drawn on the North American prairie potholes and Great Lakes marshes and the European reedbeds (Danube, Norfolk Broads).",
+ "climate": {
+  "temp_c": [
+   3,
+   18
+  ],
+  "moisture": [
+   0.66,
+   1
+  ]
+ },
+ "plant_families": []
+}

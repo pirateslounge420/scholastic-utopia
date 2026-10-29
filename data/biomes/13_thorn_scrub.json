@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "THORN_SCRUB",
+ "name": "Thorn scrub",
+ "group": "Grass & scrub",
+ "size": "small",
+ "kind": "land",
+ "notes": "Semi-arid thorny woodland/scrub: small spiny legumes and succulents on dry, often thin soils with a sparse grass layer. Drawn on the Caatinga (Brazil), Chaco (Argentina/Paraguay), Tamaulipan thornscrub (Mexico/Texas), Somali-Masai Acacia-Commiphora bushland and Madagascar spiny thicket.",
+ "climate": {
+  "temp_c": [
+   18,
+   33
+  ],
+  "moisture": [
+   0.16,
+   0.3
+  ]
+ },
+ "plant_families": []
+}

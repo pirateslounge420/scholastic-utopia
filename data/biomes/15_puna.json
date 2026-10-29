@@ -1,0 +1,24 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "PUNA",
+ "name": "Puna",
+ "group": "High-altitude",
+ "size": "small",
+ "kind": "land",
+ "notes": "Dry high-Andean puna (Peru, Bolivia, N Chile, NW Argentina) 3200-5000 m: bunchgrass steppe with Polylepis groves, resinous tola shrubs, Puya raimondii and hard cushion bogs (bofedales).",
+ "climate": {
+  "temp_c": [
+   -3,
+   5
+  ],
+  "moisture": [
+   0.12,
+   0.55
+  ],
+  "altitude_m": [
+   3200,
+   5000
+  ]
+ },
+ "plant_families": []
+}

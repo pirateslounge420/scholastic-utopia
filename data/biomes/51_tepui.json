@@ -1,0 +1,24 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "TEPUI",
+ "name": "Tepui summit",
+ "group": "Mountain",
+ "size": "small",
+ "kind": "land",
+ "notes": "The table mountains of the Guiana Shield: Precambrian quartzite plateaus rising 1,000-2,000 m out of tropical rainforest with sheer cliffs on every side, cool, permanently wet, swept by cloud, the rock black-crusted and cut into mazes and sinkholes. Among the oldest land surfaces on Earth — never glaciated, never under the sea for a billion years — so the summits carry plants found nowhere else: Stegolepis rosette stands, Bonnetia clefts, carnivorous sun pitchers and Brocchinia, cushion bromeliads, Roraima sundews. Nutrient-starved: a third of the flora is carnivorous. Angel Falls drops off one; caves run through the quartzite. Generation: an isolated plateau landform on SANDSTONE in the warm-wet band whose summit reads this biome by altitude, its cliffs bare, its slopes tropical rainforest, its rim shedding waterfalls, its interior threaded with caves.",
+ "climate": {
+  "temp_c": [
+   8,
+   16
+  ],
+  "moisture": [
+   0.8,
+   1.0
+  ],
+  "altitude_m": [
+   1500,
+   3000
+  ]
+ },
+ "plant_families": []
+}

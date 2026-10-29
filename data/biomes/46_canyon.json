@@ -1,0 +1,20 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "CANYON",
+ "name": "Canyon",
+ "group": "Special",
+ "size": "small",
+ "kind": "land",
+ "notes": "Pinyon-juniper and scrub on rocky rims and slopes, cottonwood and willow galleries along the canyon floor stream, ferns at seeps; Colorado Plateau canyons (Grand Canyon, Zion) with Copper Canyon and Fish River Canyon analogues.",
+ "climate": {
+  "temp_c": [
+   0,
+   30
+  ],
+  "moisture": [
+   0.05,
+   0.35
+  ]
+ },
+ "plant_families": []
+}

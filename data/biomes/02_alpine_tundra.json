@@ -1,0 +1,24 @@
+{
+ "_help": "Biome template carried over from animated-succotash (28 Oct 2026). Climate only: the real-species plant lists were removed, because this game uses its own invented plant families (docs/DESIGN.md §C). climate.temp_c is mean annual °C; moisture is 0 (bone dry) to 1 (waterlogged); altitude_m where given.",
+ "key": "ALPINE_TUNDRA",
+ "name": "Alpine tundra",
+ "group": "Polar/cold",
+ "size": "small",
+ "kind": "land",
+ "notes": "High-mountain zone above treeline (Rockies, Alps, Himalaya, Andes): fellfield, scree and cushion communities with prostrate willows, cushion plants, sedges and lichens. Drawn on Rocky Mountains, Alps and Himalaya.",
+ "climate": {
+  "temp_c": [
+   -8,
+   0
+  ],
+  "moisture": [
+   0.1,
+   1
+  ],
+  "altitude_m": [
+   900,
+   6000
+  ]
+ },
+ "plant_families": []
+}
